@@ -1,15 +1,20 @@
 {
   "name": "taco-stand-app",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node --use_strict src/index.js",
+    "test": "node --use_strict test/taco-stand.spec.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "events": "^3.3.0"
+  },
+  "devDependencies": {},
+  "description": ""
 }
