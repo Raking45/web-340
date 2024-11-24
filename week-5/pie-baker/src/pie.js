@@ -1,8 +1,8 @@
 /**
- * Author:
- * Date:
- * File Name:
- * Description:
+ * Author:  Robert King
+ * Date:    November 24, 2024
+ * File Name: pie.js
+ * Description:  Pie bake function with an array of essential ingredients.
  */
 "use strict";
 

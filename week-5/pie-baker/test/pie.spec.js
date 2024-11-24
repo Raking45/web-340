@@ -1,8 +1,8 @@
 /**
- * Author:
- * Date:
- * File Name:
- * Description:
+ * Author:  Robert King
+ * Date:    November 24, 2024
+ * File Name: pie.spec.js
+ * Description:  Pie function tests using jest.
  */
 
 "use strict";
