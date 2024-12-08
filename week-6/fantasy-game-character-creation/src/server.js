@@ -1,4 +1,5 @@
 // Chatgpt 4 used for debugging
+//  S-Skaggs @ https://github.com/S-Skaggs/web-340/blob/30db122869df0a6e7af16b4a4edae04273f519ad/week-7/fantasy-character-creation-stream/src/character-creator.js
 
 "use strict";
 const http = require('http');
