@@ -1,12 +1,12 @@
 {
   "name": "fantasy-character-creation",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "directories": {
     "test": "test"
   },
   "scripts": {
+    "start": "node --use_strict src/character-creation.js",
     "test": "jest"
   },
   "keywords": [],
@@ -15,5 +15,9 @@
   "devDependencies": {
     "@types/jest": "^29.5.11",
     "jest": "^29.7.0"
+  },
+  "description": "",
+  "dependencies": {
+    "events": "^3.3.0"
   }
 }
